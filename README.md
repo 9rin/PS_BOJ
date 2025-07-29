@@ -1,7 +1,7 @@
 # PS_BOJ
 #### 백준 온라인 저지 문제 풀이
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=youdid)
-<br>2024년 3월부터 지금까지 매일 풀려고 노력중!<br>
+<br>너무 귀찮아<br>
 
 
 
