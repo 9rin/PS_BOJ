@@ -1,7 +1,8 @@
 # PS_BOJ
 #### 백준 온라인 저지 문제 풀이
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
-<br>너무 귀찮아<br>
+
+
 
 
 
