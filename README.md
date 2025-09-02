@@ -1,6 +1,6 @@
 # PS_BOJ
 #### 백준 온라인 저지 문제 풀이
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=youdid)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youdid)
 <br>너무 귀찮아<br>
 
 
